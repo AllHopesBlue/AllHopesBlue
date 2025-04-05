@@ -1,16 +1,18 @@
-## Hi there 👋
+# AllHopesBlue
+Hello! I'm someone interested in programming.
 
-<!--
-**AllHopesBlue/AllHopesBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fields of programming I'm interested in:
+My main interest and research area is low level programming. But
+I'm trying to work and develop myself in every area I discover.
 
-Here are some ideas to get you started:
+## What else?
+I love learning new things. I'm also interested in Linux. I daily
+driven Linux distros in my personal computer(s) for years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of tech, I love reading books and listening to music. Also
+I'm keen on philosophy too.
+
+## Contact
+TODO: Fill contact information.
+
+#### Thanks for reading!
